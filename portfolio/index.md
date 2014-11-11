@@ -1,4 +1,4 @@
 ---
-layout: blog-index
-title: Blog | Stefanie Lim
+layout: portfolio-index
+title: Portfolio | Stefanie Lim
 ---
